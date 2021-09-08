@@ -1,2 +1,2 @@
 # CliccatoLicense
-Best license for skidders
+Protect skidders for a better internet!
